@@ -2,7 +2,7 @@
 description: Components that allow you to make money with your apps.
 ---
 
-# 💲 Monetization
+# 💲 Monetization for your Apps
 
 ## Monetization Components
 
